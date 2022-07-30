@@ -28,7 +28,7 @@ H halfI(H number3) //int tempalte
 int main()
 {
     double a = 7.0;
-    float b = 5.0f;
+    float b = 5.0f; //f to assign float
     int c = 3;
 
     cout << "*******************************************\n\n";
